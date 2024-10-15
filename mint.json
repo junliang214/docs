@@ -78,8 +78,8 @@
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/demo",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/delete",
+        "api-reference/endpoint/get"
       ]
     }
   ],
