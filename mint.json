@@ -77,7 +77,7 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
+        "api-reference/endpoint/demo",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
